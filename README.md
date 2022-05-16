@@ -12,6 +12,12 @@ Criação de um encriptador. As chaves de criptografia são:
 - A letra "u" é convertida para "ufat"
 
 
+## Acesse em:
+
+ - [Challenge One-Oracle]( https://jonathanr95.github.io/challenge-One-decodificador/)
+
+
 ## Autor
 
 - [@JonathanR95](https://github.com/JonathanR95)
+
